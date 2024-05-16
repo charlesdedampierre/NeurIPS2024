@@ -1,0 +1,31 @@
+,topic_id,topic_name,size,percent
+0,bt-1,process | species | water | plants | oxygen | dioxide | carbon | energy | plant | cells,887,6.9
+1,bt-18,conversation | situation | feelings | emotions | friend | anxiety | behavior | PersonX | happiness | parents,874,6.8
+2,bt-20,premise | hypothesis | dog | man | statement | statements | dogs | information | shirt | woman,818,6.36
+3,bt-10,government | war | country | leader | countries | election | leaders | negotiations | relations | nation,815,6.34
+4,bt-29,movie | film | plot | character | series | actor | characters | story | films | television,798,6.21
+5,bt-7,sentences | company | business | pronouns | question | companies | students | questions | tag | earnings,782,6.08
+6,bt-28,monarch | church | paraphrases | gallery | art | institution | painting | keypoint | artwork | paintings,737,5.73
+7,bt-19,translation | language | grammar | text | meaning | sentence | phrases | phrase | translations | words,694,5.4
+8,bt-9,airport | ship | meters | sky | kilometers | aircraft | capital | transportation | city | islands,645,5.02
+9,bt-27,car | wood | objects | machine | train | cars | bus | bathroom | fabric | pencil,642,4.99
+10,bt-14,hashtags | limit | visibility | jump | tweet | followers | users | engagement | mentions | platform,605,4.7
+11,bt-23,team | player | football | players | teams | sport | match | game | soccer | club,586,4.56
+12,bt-4,ingredients | diet | dish | cooking | health | food | infection | texture | flavor | taste,510,3.97
+13,bt-17,restaurant | customer | dining | review | food | rating | riverside | cuisine | shop | product,500,3.89
+14,bt-0,album | music | band | song | songs | singer | musicians | rock | songwriter | albums,495,3.85
+15,bt-24,equation | sides | solution | simplifies | math | value | variable | coefficient | problem | terms,385,2.99
+16,bt-3,spaces | capitalization | punctuation | string | lowercase | comma | letter | nouns | words | file,337,2.62
+17,bt-13,tweet | app | sentiment | user | review | interface | developers | apps | satisfaction | rating,325,2.53
+18,bt-21,movie | review | film | reviewer | sentiment | viewers | cinematography | performances | connotation | critic,311,2.42
+19,bt-26,translation | meaning | este | sentence | pentru | task | grammar | languages | language | guidelines,288,2.24
+20,bt-16,que | verb | cat | sentence | language | tense | grammar | une | languages | chat,200,1.56
+21,bt-2,touchdown | yard | yards | game | TD | mange | pass | quarter | une | apple,131,1.02
+22,bt-8,integers | integer | list | element | input | numbers | loop | output | index | digit,108,0.84
+23,bt-15,glue | information | nails | crops | farm | mistake | founder | hat | battery | guitar,96,0.75
+24,bt-11,truck | limits | time,82,0.64
+25,bt-6,,61,0.47
+26,bt-5,answer,49,0.38
+27,bt-12,answer | information | command | tourists | text | record | definition | conversation | message | response,38,0.3
+28,bt-22,prosperity | gap | border | deal | regions | competition | issue | years | way,32,0.25
+29,bt-25,,28,0.22

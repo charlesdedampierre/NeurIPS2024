@@ -2,6 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*lm-evaluation-harness/
+*models/OpenHermes-2.5-Mistral-7B/
+*results/training-datasets
+*boudieu_check_open_ai.ipynb
+*fine-tuning.ipynb
+*eval_results/
 
 # C extensions
 *.so
@@ -25,6 +31,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template

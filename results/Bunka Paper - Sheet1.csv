@@ -1,0 +1,4 @@
+Name,Average ⬆️,ARC,HellaSwag,MMLU,TruthfulQA,Winogrande,GSM8K
+Topic Neural Hermes,67.36,67.06,85.44,63.66,55.47,78.3,54.21
+mlabonne/NeuralHermes-2.5-Mistral-7B,68.22,66.55,84.9,63.32,54.93,78.3,61.33
+teknium/OpenHermes-2.5-Mistral-7B,61.52,64.93,84.18,63.64,52.24,78.06,26.08

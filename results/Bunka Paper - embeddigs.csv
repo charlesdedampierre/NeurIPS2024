@@ -1,0 +1,5 @@
+,bge-large-en-v1.5,UAE-Large-V1,all-MiniLM-L6-v2,multi-qa-mpnet-base-dot-v1
+bge-large-en-v1.5,1,0.481606,0.387068,0.304052
+UAE-Large-V1,0.481606,1,0.423181,0.277117
+all-MiniLM-L6-v2,0.387068,0.423181,1,0.312121
+multi-qa-mpnet-base-dot-v1,0.304052,0.277117,0.312121,1

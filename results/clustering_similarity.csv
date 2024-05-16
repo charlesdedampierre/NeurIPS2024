@@ -1,0 +1,11 @@
+,model_1,model_2,ajusted_rand_index,rand_index
+4,BAAI/bge-large-en-v1.5,BAAI/bge-large-en-v1.5,1.0,1.0
+5,BAAI/bge-large-en-v1.5,all-MiniLM-L6-v2,0.38706830431197736,0.886162160732571
+6,BAAI/bge-large-en-v1.5,multi-qa-mpnet-base-dot-v1,0.30405193985903767,0.8677127049460731
+1,WhereIsAI/UAE-Large-V1,BAAI/bge-large-en-v1.5,0.4816062190273377,0.9049532714041691
+0,WhereIsAI/UAE-Large-V1,WhereIsAI/UAE-Large-V1,1.0,1.0
+2,WhereIsAI/UAE-Large-V1,all-MiniLM-L6-v2,0.4231814975480966,0.8930571914317205
+3,WhereIsAI/UAE-Large-V1,multi-qa-mpnet-base-dot-v1,0.2771168134273771,0.8628249656902005
+7,all-MiniLM-L6-v2,all-MiniLM-L6-v2,1.0,1.0
+8,all-MiniLM-L6-v2,multi-qa-mpnet-base-dot-v1,0.312121264273626,0.8678646052231388
+9,multi-qa-mpnet-base-dot-v1,multi-qa-mpnet-base-dot-v1,1.0,1.0

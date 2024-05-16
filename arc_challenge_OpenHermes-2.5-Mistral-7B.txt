@@ -1,0 +1,2 @@
+Passed argument batch_size = auto:1. Detecting largest batch size
+Determined largest batch size: 8
