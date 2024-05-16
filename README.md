@@ -1,6 +1,5 @@
 # NeurIPS2024
-Code for NeurIPS2024 paper: Towards Transparency: Exploring LLM Trainings Datasets through Visual Topic Modeling and Semantic Frames
-
+Code for NeurIPS2024 paper: 'Towards Transparency: Exploring LLM Trainings Datasets through Visual Topic Modeling and Semantic Frames'
 
 ## Code
 
